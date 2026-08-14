@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jCZwLx3fcQM=",
+  "success": true,
+  "projectFilePath": "C:\\project relax\\Launcher-main\\Launcher-main\\PlooshLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randt\\.nuget\\packages\\wpf-ui\\3.0.4\\wpf-ui.3.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
